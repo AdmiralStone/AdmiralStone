@@ -3,7 +3,7 @@
 <h3 align="center">A passionate software developer currently pursuing my Masters in Computer Science.</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🌱 I’m currently learning **Game design and Computer graphics**
+- 🌱 I’m currently learning **Unity and C#**
 
 - 📫 How to reach me **tipnis.rohan@gmail.com**
 
