@@ -1,9 +1,9 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)]()
 <h1 align="center">Hi 👋, I'm Rohan Tipnis</h1>
-<h3 align="center">A passionate software developer currently pursuing my Masters in Computer Science.</h3>
+<h3 align="center">A passionate software developer recently gradaduated with a Masters in Computer Science. I have a strong passion for C++ and recently graduated from UT Arlington. I love building things and am currently diving into learning QT with C++. I am on the lookout for a backend web development role, ideally writing Go, Python, or JavaScript. I am particularly interested in joining a startup with a tight-knit team where I can quickly make an impact. If you're hiring, I'd love to chat! </h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🌱 I’m currently learning **Unity and C#**
+- 🌱 I’m currently looking for **Software Developer** positions while I build some exciting side projects.
 
 - 📫 How to reach me **tipnis.rohan@gmail.com**
 
