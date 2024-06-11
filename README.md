@@ -1,6 +1,6 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)]()
 <h1 align="center">Hi 👋, I'm Rohan Tipnis</h1>
-<h3 align="center">I have a strong passion for Software Development and recently graduated from UT Arlington. I love building things and I am on the lookout for a backend web development role, ideally writing C++,Go, Python, or JavaScript. I am particularly interested in joining a startup with a tight-knit team where I can quickly make an impact. If you're hiring, I'd love to chat! </h3>
+<h3 align="center">I have a strong passion for Software Development and recently graduated from UT Arlington. I love building things and I am on the lookout for a backend web development role, ideally writing C++, Go, Python, or JavaScript. I am particularly interested in joining a startup with a tight-knit team where I can quickly make an impact. If you're hiring, I'd love to chat! </h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🖥️ I'm learning to use the QT framework with C++ to build GUI Desktop applications.
