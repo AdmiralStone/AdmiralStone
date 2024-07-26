@@ -3,7 +3,7 @@
 <h3 align="center">I have a strong passion for Software Development and recently graduated from UT Arlington. I love building things and I am on the lookout for a backend web development role, ideally writing C++, Go, Python, or JavaScript. I am particularly interested in joining a startup with a tight-knit team where I can quickly make an impact. If you're hiring, I'd love to chat! </h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🖥️ I'm learning to use the QT framework with C++ to build GUI Desktop applications.
+- 🖥️ I'm currently learning React.
 - 📫 How to reach me **tipnis.rohan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
